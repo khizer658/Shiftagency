@@ -1,0 +1,448 @@
+@media (min-width: 320px) and (max-width: 767px) {
+
+    .main-input-field {
+        display: flex;
+        gap: 10px;
+        flex-direction: column;
+    }
+
+    a.et_pb_newsletter_button {
+        padding: 5px 78px;
+    }
+
+    .Logo {
+        max-width: 55%;
+        position: absolute;
+        top: 2px;
+        left: 0;
+    }
+
+    section.sect1 {
+        margin: 20px 0 0px 0;
+        padding: 35px 5px 60px 5px;
+    }
+
+    .dropbtn {
+        padding: 8px 0;
+    }
+
+    .navbar-nav {
+        margin-top: 24px;
+    }
+
+    button.btn.btn-outline-success.my-2.my-sm-0 {
+        margin-left: 0px;
+        margin-top: 20px !important;
+    }
+    .brand-para h4{
+        font-size: 9vw;
+    }
+    .brand-para p{
+        font-size: 19px;
+    }
+    a.call-btn{
+        font-size: 16px;
+    }
+    img.load-trail-img {
+        width: 98%;
+        margin-top: 15px;
+    }
+    .parent-creative-box h4{
+        font-size: 14px;
+    }
+    .parent-creative-box h2{
+        font-size: 9vw;
+    }
+    p.our-job-para{
+        font-size: 16px;
+    }
+    section.sect4{
+        padding: 15% 0;
+    }
+    .parent-creative-box1 h2{
+        font-size: 9vw !important;
+    }
+    .featured-art h2{
+        font-size: 9vw!important;
+    }
+    .main-printmaking p{
+        font-size: 20px;
+    }
+    .main-printmaking {
+        padding: 0px 15px 0 15px;
+    }
+    .owl-theme .owl-dots {
+        display: none !important;
+    }
+    .counter-num {
+        margin-top: 20px;
+    }
+    span.dsm-rotate-weAre{
+        font-size: 28px;
+    }
+    span.dsm-rotate-word{
+        font-size: 28px;
+    }
+    h2.dsm-rotate {
+        line-height: 30px;
+    }
+    section.sect7 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .started-para { 
+        margin-top: 20px;
+    }
+    h2.custom-titlee22{
+        font-size: 8vw !important;
+    }
+    .shft-iconn {
+        width: 30%;
+        margin-top: 18px;
+    }
+    p.think-us {
+        font-size: 18px;
+        margin-top: 30px;
+    }
+    .flip-card {
+        height: 166px;
+        width: 90% !important;
+        margin-top: 40px;
+    }
+    .flip-card-back p{
+        margin-top: -10px;
+    }
+    .flip-card-back p {
+        display: none;
+    }
+    h4.custom-title-stay{
+        font-size: 9vw;
+    }
+    section.sect11 {
+        padding: 15% 0;
+    }
+    a.call-btn {
+        padding-top: 10px !important;
+        padding-right: 20px !important;
+        padding-bottom: 10px !important;
+        padding-left: 20px !important;
+    }
+    .main-from-side h2{
+        font-size: 8.5vw;
+    }
+    section.aboutus2 {
+        padding-top: 0px;
+    }
+    h4.custom-title-createe {
+        font-weight: 800;
+        font-size: 7.5vw;
+    }
+    h5.custom-dev2{
+        font-size: 8.5vw;
+    }
+    .main-jason-vana {
+        margin-top: 25px;
+    }
+    h4.custom-subtitle-flunder1 {
+        font-size: 8.5vw;
+    }
+    .upper-heading-become h3 {
+        font-size: 30px;
+    }
+    h5.custom-dev3 {
+        font-size: 7.5vw;
+    }
+    h5.custom-dev33 {
+        font-size: 8.5vw;
+    }
+    .accordion button .accordion-title{
+        font-size: 17px;
+    }
+    .accordion button .icon {
+        top: 27px;
+    }
+    .parent-Insights{
+        margin-bottom: 20px;
+    }
+    .outer-div-sociall h2 {
+        font-size: 8.5vw;
+    }
+    p.harmonise{
+        font-size: 18px;
+    }
+    img.br-brand-img{
+        margin-top: 30px;
+    }
+    h5.custom-dev10 {
+        font-size: 7.5vw;
+    }
+    img.load-trail-img {
+        width: 98%;
+        margin-top: 27px;
+    }
+    h5.custom-title {
+        font-weight: 800;
+        font-size: 7.5vw;
+    }
+    .parent-Insights22{
+        margin-bottom: 20px;
+    }
+    .main-thrive h2{
+    font-size: 7.5vw;
+    }
+    .inner-thrive-box{
+        margin-bottom: 40px;
+    }
+    .main-thrive-box span {
+        font-size: 28px;
+    }
+    .mainul-divv ul {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .main-upper-box-col{
+        margin-bottom: 20px;
+    }
+    .inner-pick-div{
+        margin-bottom: 35px;
+    }
+    .et_pb_text_inner-engaemant {
+        width: 100%;
+    }
+    .main-para-text {
+        width: 100%;
+    }
+    .et_pb_blurb_description {
+        font-weight: 300;
+        font-size: 16px;
+    }
+    h2.custom-titlee2210 {
+        font-size: 8.5vw !important;
+    }
+    img.step-one {
+        width: 20%;
+        position: absolute;
+        top: -27px;
+    }
+    a.want-btn {
+        padding-top: 10px !important;
+        padding-right: 18px !important;
+        padding-bottom: 10px !important;
+        padding-left: 18px !important;
+    }
+    .jv-imgg {
+        margin-bottom: 25px;
+    }
+    .et_pb_text_innner11 p {
+        font-size: 18px;
+    }
+    .main-sm-workwith-b2b-blurb{
+        margin-bottom: 20px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+    a.et_pb_newsletter_button {
+        padding: 7px 75px;
+    }
+
+    section.sect1 {
+        padding: 45px 0;
+    }
+    input.firstName{
+        font-size: 14px;
+    }
+    input.email-inp{
+        font-size: 14px;
+    }
+    .main-div-icon1{
+        margin-left: -10px;
+    }
+    .brand-para h4 {
+        font-weight: 800;
+        font-size: 8.5vw;
+    }
+    .dropbtn {
+        padding: 8px 0;
+    }
+    button.btn.btn-outline-success.my-2.my-sm-0 {
+        margin-left: 0px;
+        margin-top: 10px !important;
+    }
+    .parent-creative-box1 h2 {
+        font-size: 6.5vw!important;
+    }
+    .parent-creative-box1 {
+        margin-top: 40px;
+    }
+    .featured-art h2 {
+        font-size: 7.5vw!important;
+    }
+    .item {
+        padding: 0 10px 0 10px;
+    }
+    .main-printmaking p {
+        font-size: 22px;
+    }
+    .owl-dots {
+        display: none;
+    }
+    h2.custom-titlee22 {
+        font-size: 7.5vw!important;
+    }
+    .flip-card {
+        height: 188px;
+    }
+    img.brand-img-post {
+        height: 190px;
+    }
+    a.brand-101 {
+        font-weight: 800!important;
+        font-size: 20px;
+    }
+    h4.custom-title-stay {
+        font-size: 4.5vw;
+    }
+    .upper-heading-become h3 {
+        font-size: 40px;
+    }
+    .Logo1 {
+        max-width: 65%;
+        margin-top: 20px;
+    }
+    .main-from-side h2{
+        font-size: 5.5vw;
+    }
+    section.aboutus2 {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    h4.custom-title-createe {
+        font-weight: 800;
+        font-size: 4.0vw;
+    }
+    h5.custom-dev2 {
+        font-weight: 800;
+        font-size: 4.5vw;
+    }
+    h4.custom-subtitle-flunder1 {
+        font-weight: 800;
+        font-size: 4.5vw;
+    }
+    .main-jason-vana p {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .parent-Insights
+    {
+        line-height: 1.0em;
+    }
+    .parent-Insights p{
+        font-size: 15px;
+    }
+    h5.custom-dev3{
+        font-size: 5.5vw;
+    }
+    h5.custom-dev10 {
+        font-weight: 800;
+        font-size: 5.5vw;
+    }
+    .et_pb_summ1 span {
+        font-size: 32px;
+    }
+    h5.custom-title {
+        font-size: 4.5vw;
+    }
+    .et_pb_text_inner-engaemant {
+        width: 96%;
+    }
+    .outer-div-sociall h2 {
+        font-size: 5.5vw;
+    }
+    .outer-div-sociall {
+        margin-top: 40px;
+    }
+    p.harmonise{
+        font-size: 18px;
+    }
+    .parent-Insights22 h4 {
+        font-size: 20px;
+    }   
+    .parent-Insights22 p{
+        font-size: 16px;
+    } 
+    .et_pb_pricing_content{
+        padding: 0px;
+    }
+    ul.et_pb_pricing li span::before{
+        display: none;
+    }
+    ul.et_pb_pricing li span {
+        font-size: 16px;
+    }
+    ul.et_pb_pricing li{
+        font-size: 18px;
+        padding: 0 0 0.6em 5px;
+    }
+    a.Book-a-Call-btn{
+        font-size: 16px;
+        padding: 2px 3px;
+    }
+    .inner-pick-div {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    span.custom-secondary-package {
+        font-size: 28px;
+    }
+    img.step-one {
+        width: 18%;
+    }
+    a.want-btn {
+        padding-top: 10px !important;
+        padding-right: 30px !important;
+        padding-bottom: 10px !important;
+        padding-left: 30px !important;
+    }
+
+    .inner-pick-div22 span.explore-span {
+        font-size: 18px;
+        line-height: 0.5em;
+    }
+    .inner-pick-div22{
+        padding-bottom: 13px;
+    }
+    .parent-async p {
+        font-size: 16px;
+    }
+    .jv-imgg {
+        margin-top: 45px;
+    }
+    img.quote-img {
+        width: 100%;
+    }
+    .et_pb_text_innner11 p {
+        font-size: 18px;
+    }
+    .main-sm-workwith-b2b-blurb{
+        width: 100%;
+    }
+    .main-sm-workwith-b2b-blurb{
+        padding-left: 6px !important;
+    }
+    h4.ett_pb_module_header span{
+        font-size: 16px;
+    }
+}
